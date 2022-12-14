@@ -1,0 +1,19 @@
+.ods {
+    background-color: #ffc0cb;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color: #2a9deb;
+}
+
+.alert {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #94f875;
+    font-size: 24px;
+    font-weight: 700;
+}
